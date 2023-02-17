@@ -41,7 +41,7 @@ function App() {
       {/* <Navbar title ={3} aboutText="About Us"/> */}
       {/* <Navbar/> */}
       <div className="container">
-      <TextForm  showAlert={showAlert} heading="Enter the text to analyze "  mode={mode}/>
+      <TextForm  showAlert={showAlert} heading="Enter text to analyze "  mode={mode}/>
       {/* <About/> */}
 
       </div>
